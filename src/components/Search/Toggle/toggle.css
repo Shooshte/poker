@@ -1,0 +1,30 @@
+.toggle-container label {
+  font-size: 11px;
+  margin-bottom: 3px;
+}
+
+.search-buttons-container button {
+  height: 54px;
+  font-size: 20px;
+  border: none;
+  outline: none;
+}
+
+.search-buttons-container button:first-child {
+  border-radius: 5px 0 0 5px;
+}
+
+.search-buttons-container button:last-child {
+  border-radius: 0 5px 5px 0;
+  border-right: none;
+}
+
+.search-buttons-container .active {
+  background-color: #027936;
+  border-right: none;
+  color: #fff;
+}
+
+.search-buttons-container .inactive {
+  background-color: #fff;
+}

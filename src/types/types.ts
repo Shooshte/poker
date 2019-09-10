@@ -1,4 +1,21 @@
-export type HandCards = [string, string];
+export type PreflopPosition = "UTG" | "MP" | "CO" | "BTN" | "SB" | "BB";
+export type PreflopAction = "RFI" | "CC" | "3BET" | "4BET";
+export type Card =
+  | "A"
+  | "K"
+  | "Q"
+  | "J"
+  | "T"
+  | "9"
+  | "8"
+  | "7"
+  | "6"
+  | "5"
+  | "4"
+  | "3"
+  | "2";
+
+export type HandCards = [Card, Card];
 export type HandType = "pair" | "connector" | "other";
 
 export interface Hand {
