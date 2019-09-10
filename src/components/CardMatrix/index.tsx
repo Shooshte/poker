@@ -16,7 +16,7 @@ const CardMatrix: React.FC<Props> = ({ hands }) => {
         <React.Fragment>
           {hands.pair && (
             <div className="card-matrix-row">
-              <div className="card-matrix-row-heading">Pairs:</div>
+              <label className="card-matrix-row-heading">Pairs:</label>
               <div className="card-matrix-cards">
                 {hands.pair.map(hand => (
                   <HoleCards
@@ -32,7 +32,7 @@ const CardMatrix: React.FC<Props> = ({ hands }) => {
           )}
           {hands.connector && (
             <div className="card-matrix-row">
-              <div className="card-matrix-row-heading">Connectors:</div>
+              <label className="card-matrix-row-heading">Connectors:</label>
               <div className="card-matrix-cards">
                 {hands.connector.map(hand => (
                   <HoleCards
@@ -48,7 +48,7 @@ const CardMatrix: React.FC<Props> = ({ hands }) => {
           )}
           {hands.other && (
             <div className="card-matrix-row">
-              <div className="card-matrix-row-heading">Others:</div>
+              <label className="card-matrix-row-heading">Others:</label>
               <div className="card-matrix-cards">
                 {hands.other.map(hand => (
                   <HoleCards
