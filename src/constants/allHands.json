@@ -1,0 +1,366 @@
+[
+  {
+    "cards": ["A", "A"],
+    "type": "pair"
+  },
+  {
+    "cards": ["A", "K"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "Q"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "J"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "T"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "9"],
+    "type": "other"
+  },
+  {
+    "cards": ["A", "8"],
+    "type": "other"
+  },
+  {
+    "cards": ["A", "7"],
+    "type": "other"
+  },
+  {
+    "cards": ["A", "6"],
+    "type": "other"
+  },
+  {
+    "cards": ["A", "5"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "4"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "3"],
+    "type": "connector"
+  },
+  {
+    "cards": ["A", "2"],
+    "type": "connector"
+  },
+  {
+    "cards": ["K", "K"],
+    "type": "pair"
+  },
+  {
+    "cards": ["K", "Q"],
+    "type": "connector"
+  },
+  {
+    "cards": ["K", "J"],
+    "type": "connector"
+  },
+  {
+    "cards": ["K", "T"],
+    "type": "connector"
+  },
+  {
+    "cards": ["K", "9"],
+    "type": "connector"
+  },
+  {
+    "cards": ["K", "8"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "7"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "6"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "5"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "4"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["K", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "Q"],
+    "type": "pair"
+  },
+  {
+    "cards": ["Q", "J"],
+    "type": "connector"
+  },
+  {
+    "cards": ["Q", "T"],
+    "type": "connector"
+  },
+  {
+    "cards": ["Q", "9"],
+    "type": "connector"
+  },
+  {
+    "cards": ["Q", "8"],
+    "type": "connector"
+  },
+  {
+    "cards": ["Q", "7"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "6"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "5"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "4"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["Q", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["J", "J"],
+    "type": "pair"
+  },
+  {
+    "cards": ["J", "T"],
+    "type": "connector"
+  },
+  {
+    "cards": ["J", "9"],
+    "type": "connector"
+  },
+  {
+    "cards": ["J", "8"],
+    "type": "connector"
+  },
+  {
+    "cards": ["J", "7"],
+    "type": "connector"
+  },
+  {
+    "cards": ["J", "6"],
+    "type": "other"
+  },
+  {
+    "cards": ["J", "5"],
+    "type": "other"
+  },
+  {
+    "cards": ["J", "4"],
+    "type": "other"
+  },
+  {
+    "cards": ["J", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["J", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["T", "T"],
+    "type": "pair"
+  },
+  {
+    "cards": ["T", "9"],
+    "type": "connector"
+  },
+  {
+    "cards": ["T", "8"],
+    "type": "connector"
+  },
+  {
+    "cards": ["T", "7"],
+    "type": "connector"
+  },
+  {
+    "cards": ["T", "6"],
+    "type": "connector"
+  },
+  {
+    "cards": ["T", "5"],
+    "type": "other"
+  },
+  {
+    "cards": ["T", "4"],
+    "type": "other"
+  },
+  {
+    "cards": ["T", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["T", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["9", "9"],
+    "type": "pair"
+  },
+  {
+    "cards": ["9", "8"],
+    "type": "connector"
+  },
+  {
+    "cards": ["9", "7"],
+    "type": "connector"
+  },
+  {
+    "cards": ["9", "6"],
+    "type": "connector"
+  },
+  {
+    "cards": ["9", "5"],
+    "type": "connector"
+  },
+  {
+    "cards": ["9", "4"],
+    "type": "other"
+  },
+  {
+    "cards": ["9", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["9", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["8", "8"],
+    "type": "pair"
+  },
+  {
+    "cards": ["8", "7"],
+    "type": "connector"
+  },
+  {
+    "cards": ["8", "6"],
+    "type": "connector"
+  },
+  {
+    "cards": ["8", "5"],
+    "type": "connector"
+  },
+  {
+    "cards": ["8", "4"],
+    "type": "connector"
+  },
+  {
+    "cards": ["8", "3"],
+    "type": "other"
+  },
+  {
+    "cards": ["8", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["7", "7"],
+    "type": "pair"
+  },
+  {
+    "cards": ["7", "6"],
+    "type": "connector"
+  },
+  {
+    "cards": ["7", "5"],
+    "type": "connector"
+  },
+  {
+    "cards": ["7", "4"],
+    "type": "connector"
+  },
+  {
+    "cards": ["7", "3"],
+    "type": "connector"
+  },
+  {
+    "cards": ["7", "2"],
+    "type": "other"
+  },
+  {
+    "cards": ["6", "6"],
+    "type": "connector"
+  },
+  {
+    "cards": ["6", "5"],
+    "type": "connector"
+  },
+  {
+    "cards": ["6", "4"],
+    "type": "connector"
+  },
+  {
+    "cards": ["6", "3"],
+    "type": "connector"
+  },
+  {
+    "cards": ["6", "2"],
+    "type": "connector"
+  },
+  {
+    "cards": ["5", "5"],
+    "type": "pair"
+  },
+  {
+    "cards": ["5", "4"],
+    "type": "connector"
+  },
+  {
+    "cards": ["5", "3"],
+    "type": "connector"
+  },
+  {
+    "cards": ["5", "2"],
+    "type": "connector"
+  },
+  {
+    "cards": ["4", "4"],
+    "type": "pair"
+  },
+  {
+    "cards": ["4", "3"],
+    "type": "connector"
+  },
+  {
+    "cards": ["4", "2"],
+    "type": "connector"
+  },
+  {
+    "cards": ["3", "3"],
+    "type": "pair"
+  },
+  {
+    "cards": ["3", "2"],
+    "type": "connector"
+  },
+  {
+    "cards": ["2", "2"],
+    "type": "pair"
+  }
+]

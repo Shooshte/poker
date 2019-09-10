@@ -1,0 +1,27 @@
+.card-matrix {
+  margin: 14px;
+  overflow: auto;
+  display: flex;
+  max-height: 100vh - 256px;
+  flex-direction: column;
+}
+
+.card-matrix-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  margin-bottom: 7px;
+}
+
+.card-matrix-row-heading {
+  font-size: 11px;
+  margin-bottom: 3px;
+}
+
+.card-matrix-cards {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

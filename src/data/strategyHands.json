@@ -1,0 +1,334 @@
+[
+  {
+    "position": {
+      "seat": 1,
+      "abbreviation": "UTG",
+      "fullName": "Under the gun"
+    },
+    "hands": {
+      "RFI": {
+        "pair": [
+          {
+            "cards": ["A", "A"],
+            "_id": "pair_0"
+          },
+          {
+            "cards": ["K", "K"],
+            "_id": "pair_1"
+          },
+          {
+            "cards": ["Q", "Q"],
+            "_id": "pair_2"
+          },
+          {
+            "cards": ["J", "J"],
+            "_id": "pair_3"
+          },
+          {
+            "cards": ["T", "J"],
+            "_id": "pair_4"
+          },
+          {
+            "cards": ["9", "9"],
+            "_id": "pair_5"
+          },
+          {
+            "cards": ["8", "8"],
+            "_id": "pair_6"
+          },
+          {
+            "cards": ["7", "7"],
+            "_id": "pair_7"
+          }
+        ],
+        "connector": [
+          {
+            "cards": ["A", "K"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_0"
+          },
+          {
+            "cards": ["A", "Q"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_1"
+          },
+          {
+            "cards": ["A", "J"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_2"
+          },
+          {
+            "cards": ["A", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_3"
+          },
+          {
+            "cards": ["K", "Q"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_4"
+          },
+          {
+            "cards": ["K", "J"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_5"
+          },
+          {
+            "cards": ["K", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_6"
+          },
+          {
+            "cards": ["Q", "J"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_7"
+          },
+          {
+            "cards": ["Q", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_8"
+          },
+          {
+            "cards": ["J", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_9"
+          },
+          {
+            "cards": ["T", "9"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_10"
+          }
+        ]
+      },
+      "CC": [],
+      "3BET": [],
+      "4BET": [],
+      "SB": []
+    }
+  },
+  {
+    "position": {
+      "seat": 2,
+      "abbreviation": "MP",
+      "fullName": "Middle position"
+    },
+    "hands": {
+      "RFI": {
+        "pair": [
+          {
+            "cards": ["A", "A"],
+            "_id": "pair_0"
+          },
+          {
+            "cards": ["K", "K"],
+            "_id": "pair_1"
+          },
+          {
+            "cards": ["Q", "Q"],
+            "_id": "pair_2"
+          },
+          {
+            "cards": ["J", "J"],
+            "_id": "pair_3"
+          },
+          {
+            "cards": ["T", "J"],
+            "_id": "pair_4"
+          },
+          {
+            "cards": ["9", "9"],
+            "_id": "pair_5"
+          },
+          {
+            "cards": ["8", "8"],
+            "_id": "pair_6"
+          },
+          {
+            "cards": ["7", "7"],
+            "_id": "pair_7"
+          },
+          {
+            "cards": ["6", "6"],
+            "_id": "pair_8"
+          }
+        ],
+        "connector": [
+          {
+            "cards": ["A", "K"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_0"
+          },
+          {
+            "cards": ["A", "Q"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_1"
+          },
+          {
+            "cards": ["A", "J"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_2"
+          },
+          {
+            "cards": ["A", "T"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_3"
+          },
+          {
+            "cards": ["A", "9"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_4"
+          },
+          {
+            "cards": ["A", "8"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_5"
+          },
+          {
+            "cards": ["A", "7"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_6"
+          },
+          {
+            "cards": ["A", "6"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_7"
+          },
+          {
+            "cards": ["A", "5"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_8"
+          },
+          {
+            "cards": ["A", "4"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_9"
+          },
+          {
+            "cards": ["A", "3"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_10"
+          },
+          {
+            "cards": ["A", "2"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_11"
+          },
+          {
+            "cards": ["K", "Q"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_12"
+          },
+          {
+            "cards": ["K", "J"],
+            "suited": true,
+            "rainbow": true,
+            "_id": "connector_13"
+          },
+          {
+            "cards": ["K", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_14"
+          },
+          {
+            "cards": ["Q", "J"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_15"
+          },
+          {
+            "cards": ["Q", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_16"
+          },
+          {
+            "cards": ["J", "T"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_17"
+          },
+          {
+            "cards": ["T", "9"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_18"
+          },
+          {
+            "cards": ["9", "8"],
+            "suited": true,
+            "rainbow": false,
+            "_id": "connector_19"
+          }
+        ]
+      },
+      "CC": [],
+      "3BET": [],
+      "4BET": [],
+      "SB": []
+    }
+  },
+  {
+    "position": {
+      "seat": 3,
+      "abbreviation": "CO",
+      "fullName": "Cut off"
+    },
+    "hands": {
+      "RFI": []
+    }
+  },
+  {
+    "position": {
+      "seat": 4,
+      "abbreviation": "BTN",
+      "fullName": "Button"
+    },
+    "hands": {
+      "RFI": []
+    }
+  },
+  {
+    "position": {
+      "seat": 5,
+      "abbreviation": "SB",
+      "fullName": "Small blind"
+    },
+    "hands": {
+      "RFI": []
+    }
+  },
+  {
+    "position": {
+      "seat": 2,
+      "abbreviation": "BB",
+      "fullName": "Big blind"
+    },
+    "hands": {
+      "RFI": []
+    }
+  }
+]
